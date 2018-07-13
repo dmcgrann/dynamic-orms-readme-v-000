@@ -1,7 +1,7 @@
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 
-class Beer
+class Song
 
 
   def self.table_name
